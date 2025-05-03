@@ -37,3 +37,7 @@ Step 7: Saving image as .OBJ File
 
 The thought process behind this program is to convert a single 2D image into a realistic 3D mesh by using deep learning and 3D reconstruction techniques.The image is resized to meet model requirements, and the predicted depth map is combined with the RGB image to form a structured RGB-D image.This is then transformed into a 3D point cloud using virtual camera intrinsics.The point cloud is cleaned, normals are estimated, and a 3D mesh is reconstructed using Poisson surface reconstruction.
 I thought this would generate clear image but background of image has lot of noise and I am unable to clear that noise. The focused part is clear. Then download as .obj file.
+
+
+![3D image](https://github.com/user-attachments/assets/9c40c8c5-af09-45c5-8556-174525ea1fd7)
+
