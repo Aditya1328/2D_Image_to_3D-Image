@@ -39,5 +39,6 @@ The thought process behind this program is to convert a single 2D image into a r
 I thought this would generate clear image but background of image has lot of noise and I am unable to clear that noise. The focused part is clear. Then download as .obj file.
 
 
-![3D image](https://github.com/user-attachments/assets/9c40c8c5-af09-45c5-8556-174525ea1fd7)
+![3D_Image](https://github.com/user-attachments/assets/6f32d436-e8e6-48f8-840c-8aa8444f3a3c)
+
 
