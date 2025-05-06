@@ -42,3 +42,6 @@ I thought this would generate clear image but background of image has lot of noi
 ![3D_Image](https://github.com/user-attachments/assets/6f32d436-e8e6-48f8-840c-8aa8444f3a3c)
 
 
+![bird_3d](https://github.com/user-attachments/assets/ec40887d-00a2-46b1-902e-28f3e47a00a8)
+
+
